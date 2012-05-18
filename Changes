@@ -2,5 +2,5 @@ Revision history for CPAN-Testers-Metabase-AWS
 
 {{$NEXT}}
 
-  - First release
+  - Split out from CPAN-Testers-Metabase distribution
 
